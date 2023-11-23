@@ -1,4 +1,4 @@
-# Nagios to Google Chat Integration
+# Nagios to Google Chat Notifications
 
 This repository contains Python scripts to enable integration between Nagios notifications and Google Chat.
 
